@@ -26,6 +26,10 @@ The objective of this task is to perform sentiment analysis on textual review da
 
 7. The task demonstrated the practical implementation of NLP for sentiment classification.
 
-
+#OUTPUT
+<img width="853" height="389" alt="Image" src="https://github.com/user-attachments/assets/76a8a0ab-db6d-41bc-b7f7-2184edabe0fc" />
+<img width="1095" height="685" alt="Image" src="https://github.com/user-attachments/assets/1aa00533-de22-477e-ae28-ce0315663eb8" />
+<img width="841" height="306" alt="Image" src="https://github.com/user-attachments/assets/f8862189-18c3-46d5-9a82-8e812a3dd920" />
+<img width="1000" height="249" alt="Image" src="https://github.com/user-attachments/assets/3d88ccef-f383-4a1d-94a0-3eaa141f82a2" />
 
 
